@@ -97,7 +97,7 @@ To activate:
 
 ## Contact & Facility
 
-- **Facility**: 48 Innovation Way, Melbourne Advanced Manufacturing Precinct, VIC 3168, Australia
+- **Facility**: ## Innovation Way, Melbourne, VIC 3000, Australia
 - **Phone**: (03) 9000 xxxx
 - **Email**: testing@assurancelab.com.au
 - **Accreditation**: ISO/IEC 17025:2017 & NATA Scope Alignment

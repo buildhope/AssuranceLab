@@ -62,7 +62,7 @@ export const Footer: React.FC = () => {
             <div className="footer-contact-list">
               <div className="footer-contact-item">
                 <MapPin size={16} className="contact-icon" />
-                <span>48 Innovation Way, Melbourne Advanced Manufacturing Precinct, VIC 3168, Australia</span>
+                <span>## Innovation Way, Melbourne, VIC 3000, Australia</span>
               </div>
               <div className="footer-contact-item">
                 <Phone size={16} className="contact-icon" />
